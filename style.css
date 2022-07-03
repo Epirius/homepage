@@ -1,0 +1,15 @@
+h1{
+    margin: 1em;
+}
+
+.container{
+    display: flex;
+    gap: 2em;
+    margin: 2em;
+}
+
+.box{
+    padding: 2em;
+    border-radius: .3em;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.1);
+}
